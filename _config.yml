@@ -2,6 +2,5 @@ title: Anna Leoni
 logo: /images/headshot_circle.png
 theme: jekyll-theme-minimal
 
-github:
-  username: biscoleo
-  url: https://github.com/biscoleo
+github_username: biscoleo
+github_profile_url: https://github.com/biscoleo
