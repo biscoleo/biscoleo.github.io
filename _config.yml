@@ -1,3 +1,8 @@
 title: Anna Leoni
 logo: /images/headshot_circle.png
 theme: jekyll-theme-minimal
+
+# Social Media Links
+social:
+  github: https://github.com/biscoleo
+  linkedin: https://www.linkedin.com/in/anna-leoni-datascience/
